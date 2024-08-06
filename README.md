@@ -8,7 +8,7 @@
 
 
 <li> 👋 Hi, I’m Muhammet Güneri </li> &nbsp;<br>
-<li> 👀 I’m interested in Data Science, Business Intelligence and Data Analysis </li>&nbsp;<br>
+<li> 👀 I’m interested in Data Science, Business Intelligence, Data Analysis and Generative AI </li>&nbsp;<br>
 <li> 📄 Know about my experience: [www.linkedin.com/in/muhammet-guneri]</li> &nbsp;<br>
 <li> 👨‍💻 All of my projects are available at: [https://github.com/mguneri19] </li>&nbsp;<br>
 <li> 📫 How to reach me: [<a href="mailto:mguneri19@gmail.com"><u>mguneri19@gmail.com</u></a>]</li>
